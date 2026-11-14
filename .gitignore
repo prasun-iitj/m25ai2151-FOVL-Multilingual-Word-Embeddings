@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.log
+.DS_Store
+# Large trained model files are retained separately; do not commit accidentally.
+*.model
+*.model.wv.vectors_ngrams.npy
+*.model.wv.vectors_vocab.npy
+*.model.syn1neg.npy
+*.model.wv.vectors.npy
