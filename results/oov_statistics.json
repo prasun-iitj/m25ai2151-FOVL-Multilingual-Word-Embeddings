@@ -1,0 +1,79 @@
+{
+    "Hindi": {
+        "total_words": 470,
+        "oov_words": 62,
+        "oov_percentage": 13.19,
+        "pairs": 235,
+        "embedding_shape": [
+            235,
+            2,
+            300
+        ]
+    },
+    "Gujarati": {
+        "total_words": 326,
+        "oov_words": 28,
+        "oov_percentage": 8.59,
+        "pairs": 163,
+        "embedding_shape": [
+            163,
+            2,
+            300
+        ]
+    },
+    "Marathi": {
+        "total_words": 208,
+        "oov_words": 28,
+        "oov_percentage": 13.46,
+        "pairs": 104,
+        "embedding_shape": [
+            104,
+            2,
+            300
+        ]
+    },
+    "Punjabi": {
+        "total_words": 286,
+        "oov_words": 28,
+        "oov_percentage": 9.79,
+        "pairs": 143,
+        "embedding_shape": [
+            143,
+            2,
+            300
+        ]
+    },
+    "Tamil": {
+        "total_words": 192,
+        "oov_words": 27,
+        "oov_percentage": 14.06,
+        "pairs": 96,
+        "embedding_shape": [
+            96,
+            2,
+            300
+        ]
+    },
+    "Telugu": {
+        "total_words": 222,
+        "oov_words": 57,
+        "oov_percentage": 25.68,
+        "pairs": 111,
+        "embedding_shape": [
+            111,
+            2,
+            300
+        ]
+    },
+    "Urdu": {
+        "total_words": 200,
+        "oov_words": 27,
+        "oov_percentage": 13.5,
+        "pairs": 100,
+        "embedding_shape": [
+            100,
+            2,
+            300
+        ]
+    }
+}

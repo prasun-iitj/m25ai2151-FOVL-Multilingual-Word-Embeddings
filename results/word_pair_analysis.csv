@@ -1,0 +1,9 @@
+Language,Word 1,Word 2,Human Score,Model Cosine,Rank Difference,Analysis
+Gujarati,વાઘ,વાઘ,10.0,1.0,0.0,Closely aligned
+Gujarati,સમાચાર,અહેવાલ,7.0,0.8180648684501648,0.0,Closely aligned
+Marathi,वाघ,वाघ,10.0,1.0,0.0,Closely aligned
+Tamil,ராஜா,ராணி,8.625,0.9475231170654297,0.0,Closely aligned
+Gujarati,વિલંબ,જાતિવાદ,0.0,0.972833514213562,0.941717791411043,Poorly aligned
+Telugu,మైనారిటీ,శాంతి,1.0,0.9600240588188171,0.9144144144144144,Poorly aligned
+Hindi,पैसे,धन,9.2,0.5630998611450195,0.9106382978723404,Poorly aligned
+Marathi,चित्रपट,समीक्षक,8.5,0.5612233877182007,0.8894230769230769,Poorly aligned
